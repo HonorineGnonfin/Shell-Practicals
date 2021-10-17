@@ -1,0 +1,14 @@
+a. C'est l'option -a qui affiche tous les fichiers. Autrement on utilise ls -a pour afficher tous les fichiers. Après essaie, j'ai vu les fichiers cachés aussi, ce que je n'avais pas vu avec ls simplement.
+
+
+
+b. C'est l'option -R qui permet de lister tous les fichiers dans les sous répertoires.
+
+
+
+c. C'est la commande wc qui permet de compter les lignes, les mots et les caractères d'un fichier.
+
+
+
+
+d. Pour que cette commande affiche seulement le nombre de lignes, on lui ajoute l'option -l c'est-à-dire wc -l.
